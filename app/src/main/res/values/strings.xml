@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tipCalculator</string>
+    <string name="cost">Cost:</string>
+    <string name="use_custom_number_of_people">Use Custom Number of People</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="_12">12%</string>
+    <string name="_15">15%</string>
+    <string name="_20">20%</string>
+    <string name="use_custom_tip">Use Custom Tip</string>
+    <string name="use_custom_tip">Use Custom Tip</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="use_custom_amount_of_people">use custom amount of people</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="vale">$$</string>
+    <string name="calculate">Calculate</string>
+</resources>
